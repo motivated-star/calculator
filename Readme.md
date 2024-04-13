@@ -50,10 +50,28 @@ Upon submission, the final result is presented to users through a modal window, 
 
 ![App Screenshot](https://github.com/motivated-star/calculator/blob/main/screenshots/Screenshot%20(172).png?raw=true)
 
-## Deployment
+## Run Locally
 
-To deploy this project run
+Clone the project
 
 ```bash
-  https://motivated-star.github.io/calculator/
+  git clone https://github.com/motivated-star/calculator
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
 ```
